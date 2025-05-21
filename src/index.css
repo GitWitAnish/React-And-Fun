@@ -1,0 +1,26 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(135deg, #6dd5ed, #2193b0);
+  color: white;
+  margin: 0;
+}
+
+input {
+  padding: 0.5rem;
+  margin-right: 1rem;
+  border-radius: 5px;
+  border: none;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  background-color: #0b7285;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #087f5b;
+}
